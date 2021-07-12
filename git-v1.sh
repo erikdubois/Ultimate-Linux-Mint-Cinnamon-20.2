@@ -11,33 +11,9 @@
 #
 ##################################################################################################################
 
-# echo "# Ultimate-Linux-Mint-18" >> README.md
-# git init
-# git add README.md
-# git commit -m "first commit"
-# git remote add origin https://github.com/erikdubois/Ultimate-Linux-Mint-18-Cinnamon.git
-# git push -u origin master
-
-# git config --global user.name x
-# git config --global user.email x
-# sudo git config --system core.editor nano
-# git config --global credential.helper cache
-# git config --global credential.helper 'cache --timeout=3600'
-
-
-# Force git to overwrite local files on pull - no merge
-
-# git fetch all
-
-# git push --set-upstream origin master
-
-# git reset --hard orgin/master
-
 
 # checking if I have the latest files from github
 echo "Checking for newer files online first"
-#git pull
-gtk-update-icon-cache usr/share/icons/Surfn-Plasma-Dark
 # Below command will backup everything inside the project folder
 git add --all .
 
