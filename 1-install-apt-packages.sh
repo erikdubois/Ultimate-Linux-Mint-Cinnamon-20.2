@@ -18,6 +18,7 @@ sudo apt install simplescreenrecorder
 sudo apt install chromium
 sudo apt install sublime-text
 sudo apt install -y telegram-desktop
+sudo apt install -y thunar
 
 
 
