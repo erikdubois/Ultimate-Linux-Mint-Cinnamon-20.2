@@ -11,8 +11,21 @@
 #
 ##################################################################################################################
 
+sudo apt update
+
 sudo apt install git
 sudo apt install simplescreenrecorder
+sudo apt install chromium
+sudo apt install sublime-text
+sudo apt install -y telegram-desktop
+
+
+
+
+#Installed via keys and repo add
+sudo apt install -y vivaldi-stable
+sudo apt install -y google-chrome-stable
+sudo apt install -y brave-browser
 
 
 echo "################################################################"
