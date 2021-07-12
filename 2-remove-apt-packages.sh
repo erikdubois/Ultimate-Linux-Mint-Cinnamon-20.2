@@ -12,10 +12,16 @@
 ##################################################################################################################
 
 sudo apt remove -y hexchat
-sudo apt-get remove -y transmission-gtk
-sudo apt-get remove -y transmission-common
-sudo apt-get remove -y transmission-qt
-sudo apt-get remove -y transmission-cli
+
+sudo apt remove -y transmission-gtk
+sudo apt remove -y transmission-common
+sudo apt remove -y transmission-qt
+sudo apt remove -y transmission-cli
+
+
+sudo apt remove -y thunderbird
+ 
+
 
 echo "################################################################"
 echo "###################    Packages removed   ######################"
