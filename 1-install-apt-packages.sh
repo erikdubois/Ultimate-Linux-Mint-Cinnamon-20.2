@@ -28,6 +28,7 @@ sudo apt install -y inkscape
 sudo apt install -y vlc
 sudo apt install -y virtualbox
 sudo apt install -y rxvt-unicode
+sudo apt install -y flameshot
 
 
 
