@@ -1,16 +1,0 @@
---2021-07-12 18:04:50--  https://discord.com/api/download?platform=linux
-Resolving discord.com (discord.com)... 162.159.135.232, 162.159.136.232, 162.159.138.232, ...
-Connecting to discord.com (discord.com)|162.159.135.232|:443... connected.
-HTTP request sent, awaiting response... 302 Found
-Location: https://dl.discordapp.net/apps/linux/0.0.15/discord-0.0.15.deb [following]
---2021-07-12 18:04:50--  https://dl.discordapp.net/apps/linux/0.0.15/discord-0.0.15.deb
-Resolving dl.discordapp.net (dl.discordapp.net)... 162.159.129.232, 162.159.130.232, 162.159.134.232, ...
-Connecting to dl.discordapp.net (dl.discordapp.net)|162.159.129.232|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 71614892 (68M) [application/x-debian-package]
-Saving to: ‘download?platform=linux’
-
-download?platform=linux         0%[                                                ]       0  --.-KB/s               download?platform=linux         8%[===>                                            ]   6,13M  30,6MB/s               download?platform=linux        22%[=========>                                      ]  15,03M  37,5MB/s               download?platform=linux        34%[===============>                                ]  23,43M  39,0MB/s               download?platform=linux        45%[====================>                           ]  30,88M  38,6MB/s               download?platform=linux        58%[==========================>                     ]  39,62M  39,6MB/s               download?platform=linux        70%[================================>               ]  48,29M  40,2MB/s               download?platform=linux        82%[======================================>         ]  56,60M  40,4MB/s               download?platform=linux        95%[============================================>   ]  65,34M  40,8MB/s               download?platform=linux       100%[===============================================>]  68,30M  41,0MB/s    in 1,7s    
-
-2021-07-12 18:04:52 (41,0 MB/s) - ‘download?platform=linux’ saved [71614892/71614892]
-

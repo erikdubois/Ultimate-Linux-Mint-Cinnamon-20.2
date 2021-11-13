@@ -16,8 +16,6 @@
 echo "Checking for newer files online first"
 # Below command will backup everything inside the project folder
 
-cp /home/erik/.config/dconf/user /home/erik/Desktop/Ultimate-Linux-Mint-Cinnamon-20.2/personal/config/dconf/user
-
 git add --all .
 
 # Give a comment to the commit if you want
